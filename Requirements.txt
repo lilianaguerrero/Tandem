@@ -1,0 +1,6 @@
+Requirements:
+- python3
+
+To run the  program in the command line, type the following in the terminal:
+
+>> python3 Trivia.py
